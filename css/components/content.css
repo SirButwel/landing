@@ -1,0 +1,26 @@
+.content {
+  text-align: left;
+  padding-top: 211px;
+}
+
+.content>h1, .content>p {
+  color: white;
+}
+
+.title-middle {
+  text-align: center;
+}
+
+.icons {
+  padding: 80px;
+  text-align: center;
+}
+
+.fa-brands {
+  font-size: 50px;
+  color: rgba(255, 0, 0, 0.705);
+}
+
+.fa-brands:hover {
+  color:aquamarine;
+}

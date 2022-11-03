@@ -1,0 +1,11 @@
+.banner {
+  background-image: url(https://64.media.tumblr.com/9364fe0769361b41e19edc10a3b38d03/tumblr_pw7qieJ2jL1w4t7wqo1_540.gif); background-size: cover; background-repeat: repeat;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  padding: 200px 0
+}
+
+.footer {
+  background-color: black;
+  height: 200px;
+}
